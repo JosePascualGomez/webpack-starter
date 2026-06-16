@@ -12,7 +12,7 @@
   "author": "José Pascual Gómez",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.19.6",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.19.4",
     "babel-loader": "^9.0.0",
     "copy-webpack-plugin": "^14.0.0",
